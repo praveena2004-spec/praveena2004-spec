@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning  FULL STACK DEVELOPMENT<br>🎯 Goals: SDE</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning  FULL STACK DEVELOPMENT<br>🎯 Goal:FULL STACK DEVELOPER</p>
 
 ###
 
